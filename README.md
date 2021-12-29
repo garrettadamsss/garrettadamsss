@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **gtadams@cpp.edu**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
