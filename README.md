@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Adams Brothers Webiste**
 
-- 🌱 I’m currently learning **Python, React JS, and C++**
+- 🌱 I’m currently learning **Python and React JS*
 
 - 📫 How to reach me **gtadams@cpp.edu**
 
