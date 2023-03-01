@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garrett</h1>
 <h3 align="center">A student at Cal Poly Pomona</h3>
 
-- 🔭 I’m currently working on **Adams Brothers Webiste**
+- 🔭 I’m currently working on **Leetcode Bot**
 
 - 🌱 I’m currently learning **Python and React JS*
 
