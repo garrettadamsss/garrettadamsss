@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Garrett</h1>
-<h3 align="center">A student at Cal Poly Pomona</h3>
+<h3 align="center">Associate Software Engineer at PlutoTV</h3>
 
 - 🔭 I’m currently working on **Leetcode Bot**
 
 - 🌱 I’m currently learning **Python and React JS*
 
-- 📫 How to reach me **gtadams@cpp.edu**
+- 📫 How to reach me **garrett.adams@pluto.tv**
 
 <p align="left">
 </p>
