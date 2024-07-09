@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and React JS*
 
-- 📫 Find me on [LinkedIn](linkedin.com/in/garrett-adams-685783205)!
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/garrett-adams-685783205/)!
 
 <p align="left">
 </p>
