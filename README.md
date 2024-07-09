@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and React JS*
 
-- 📫 Find me on <a LinkedIn href = "linkedin.com/in/garrett-adams-685783205">!
+- 📫 Find me on <a href = "linkedin.com/in/garrett-adams-685783205"> LinkedIn </a>!
 
 <p align="left">
 </p>
