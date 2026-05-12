@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Garrett</h1>
-<h3 align="center">Associate Software Engineer at PlutoTV</h3>
+<h3 align="center">Associate Software Engineer at Paramount</h3>
 
-- 🔭 I’m currently working on **Leetcode Bot**
+- 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Python and React JS*
+- 🌱 I’m currently learning **NextJs and SqLite**
 
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/garrett-adams-685783205/)!
 
